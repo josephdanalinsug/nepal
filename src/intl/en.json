@@ -5,6 +5,6 @@
   "home.paragraph2": "This sample order will be sent via email",
   "home.paragraph3": "It's thursday my dudes",
   "home.paragraph4": "It's wednesday my dudes",
-  "home.html": "<span>{% if test %} Hello World<span></span>",
+  "home.html": "<span>{test} Hello World<span></span>",
   "home.segmentation": "Chapter I. Mr. and Mrs. Smith Go On Holiday\nMr. Smith said to Mrs. Smith: “Honey, if you sell approx. 10.000 lbs. Red Mints to Capt. Sweet by Mar. 25th, we can win a trip to the Cook Islands! A. B. Jones (Jones et al. 2014 pp. 100-120) writes nice things about them.” Mrs. Smith answered: “Really? I think I'll be able to do it by Mar. eBay also has great hiking boot offers going on. What do you think about hiking Mt. Te Manga? It’s 2142.39 ft. high!\"\nJones, A. B. & Taylor, C. D. (Eds.). (1973). Let's travel! London, UK: Newbury House.\n"
 }
