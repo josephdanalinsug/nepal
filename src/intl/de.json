@@ -1,0 +1,10 @@
+{
+  "home.html": "<span>[translated] {% if test %} Hello World<span></span></span>",
+  "home.paragraph1": "[translated] This is a sample paragraph i want to be translated",
+  "home.paragraph2": "[translated] This sample order will be sent via email",
+  "home.paragraph3": "[translated] It's thursday my dudes",
+  "home.paragraph4": "[translated] It's wednesday my dudes",
+  "home.segmentation": "[translated] Chapter I. Mr. and Mrs. Smith Go On Holiday\n[translated] Mr. Smith said to Mrs. Smith: “Honey, if you sell approx. 10.000 lbs. [translated] Red Mints to Capt. [translated] Sweet by Mar. [translated] 25th, we can win a trip to the Cook Islands! [translated] A. B. Jones (Jones et al. [translated] 2014 pp. [translated] 100-120) writes nice things about them.” Mrs. Smith answered: “Really? [translated] I think I'll be able to do it by Mar. [translated] eBay also has great hiking boot offers going on. [translated] What do you think about hiking Mt. Te Manga? [translated] It’s 2142.39 ft. [translated] high!\"\n[translated] Jones, A. B. & Taylor, C. D. (Eds.). (1973). [translated] Let's travel! [translated] London, UK: Newbury House.\n",
+  "home.subheading": "[translated] This is a sample subheading",
+  "home.title": "[translated] Welcome"
+}
