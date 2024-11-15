@@ -1,5 +1,6 @@
 {
   "components.auth.signOutLink.button": "Sign out",
+  "components.auth.signOutLink.button1": "Sign out!",
   "components.auth.signupWithGithubButton": "Signup with Github",
   "components.backToDashboard.Button": "Go back to your dashboard",
   "components.billing.openPortalButton": "Manage account",
