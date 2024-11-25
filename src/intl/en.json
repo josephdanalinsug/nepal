@@ -186,5 +186,6 @@
   "components.projects.AddAzureWebhook.description": "This helps us automatically detect changes in your project.",
   "components.projects.AddAzureWebhook.title": "Webhooks",
   "another.test": "Hello there",
-  "shoelace": "Shoelaces"
+  "shoelace": "Shoelaces",
+  "the_tip_of_shoelaces": "aglet" 
 }
