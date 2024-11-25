@@ -184,5 +184,6 @@
   "pages.github.signup.title": "You will be redirected to GitHub shortly. If you're not automatically redirected:",
   "components.projects.AddAzureWebhook.button": "Add Webhook",
   "components.projects.AddAzureWebhook.description": "This helps us automatically detect changes in your project.",
-  "components.projects.AddAzureWebhook.title": "Webhooks"
+  "components.projects.AddAzureWebhook.title": "Webhooks",
+  "another.test": "Hello there"
 }
