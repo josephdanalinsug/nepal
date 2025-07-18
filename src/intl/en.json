@@ -1,7 +1,7 @@
 {
   "test.1.2": "My test header",
-  "components.auth.signOutLink.button": "Sign out!",
-  "components.auth.signOutLink.bloat": "Bloat!!",
-  "components.auth.signOutLink.button1": "Sign out!!",
-  "components.auth.signupWithGithubButton": "Signup with Github!!"
+  "components.auth.signOutLink.button": "Sign out!!",
+  "components.auth.signOutLink.bloat": "Remove bloat, clear cache always",
+  "components.auth.profile.link": "Go to Profile.",
+  "components.auth.signupWithGithubButton": "Signup with Github"
 }
