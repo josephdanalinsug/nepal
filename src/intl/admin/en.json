@@ -1,1 +1,7 @@
-
+{
+    "admin.test.1.2": "Admin - My test header",
+    "admin.components.auth.signOutLink.button": "Admin - Sign out!",
+    "admin.components.auth.signOutLink.bloat": "Admin - Bloat!!",
+    "admin.components.auth.signOutLink.button1": "Admin - Sign out!!",
+    "admin.components.auth.signupWithGithubButton": "Admin - Signup with Github!!"
+}
