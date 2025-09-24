@@ -1,0 +1,7 @@
+{
+  "components.auth.profile.link": "Go to Profile!.",
+  "components.auth.signOutLink.bloat": "Remove bloat, clear cache always!",
+  "components.auth.signOutLink.button": "Sign ou!t!!",
+  "components.auth.signupWithGithubButton": "Signup with Github!",
+  "test.1.2": "My test header@"
+}
