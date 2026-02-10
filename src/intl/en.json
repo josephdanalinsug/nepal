@@ -1,6 +1,6 @@
 {
   "test.1.2": "My test header@, ${{user}}",
-  "components.auth.signOutLink.button": "Sign ou!t!!",
+  "components.auth.signOutLink.button": "Sign out, ${{inputs.test}}",
   "components.auth.signOutLink.bloat": "Remove bloat, clear cache always!",
   "components.auth.profile.link": "Go to Profile!.",
   "components.auth.signupWithGithubButton": "Signup with Github!"
