@@ -1,5 +1,5 @@
 {
-  "test.1.2": "My test header, I have been updated!",
+  "test.1.2": "My test header, I have been updated! This has been updated",
   "components.auth.signOutLink.button": "Sign out",
   "components.auth.signOutLink.bloat": "Remove bloat, clear cache always!",
   "components.auth.profile.link": "Go to Profile!.",
