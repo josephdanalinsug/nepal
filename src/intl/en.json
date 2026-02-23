@@ -1,42 +1,12 @@
 {
-  "++lIqO": {
-    "defaultMessage": "Update Error one untranslatink",
-    "description": "endless-aisle:shopping-preferences - error-title"
-  },
-  "+/J3t7": {
-    "defaultMessage": "Please wait while we log you out...",
-    "description": "logout:text - logging-out"
-  },
-  "+11Jn5": {
-    "defaultMessage": "Gender",
-    "description": "account:profile - gender-label"
-  },
-  "+2Y2CW": {
-    "defaultMessage": "Shipping",
-    "description": "ea:recent-orders:summary-shipping"
-  },
-  "+632XD": {
-    "defaultMessage": "Play video",
-    "description": "product:aria - play-video"
-  },
-  "+66YjI": {
-    "defaultMessage": "View Rewards",
-    "description": "account:button - view-all-rewards"
-  },
-  "+8hxiS": {
-    "defaultMessage": "Terms of Service",
-    "description": "footer:link - terms-of-service"
-  },
-  "+Cpeej": {
-    "defaultMessage": "Error handling PayPal payment #003",
-    "description": "checkout:payment:paypal - error-003"
-  },
-  "+IRaJs": {
-    "defaultMessage": "Override approved by manager {managerEmail}",
-    "description": "endless-aisle:manager-approval - success-message"
-  },
-  "+Iq8Va": {
-    "defaultMessage": "Apple Pay requires a secure connection (HTTPS). Please use HTTPS in production.",
-    "description": "payment:error - applepay-requires-https"
-  }
+  "++lIqO": "Update Error one untranslatink",
+  "+/J3t7": "Please wait while we log you out...",
+  "+11Jn5": "Gender",
+  "+2Y2CW": "Shipping",
+  "+632XD": "Play video",
+  "+66YjI": "View Rewards",
+  "+8hxiS": "Terms of Service",
+  "+Cpeej": "Error handling PayPal payment #003",
+  "+IRaJs": "Override approved by manager {managerEmail}",
+  "+Iq8Va": "Apple Pay requires a secure connection (HTTPS). Please use HTTPS in production."
 }
