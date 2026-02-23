@@ -1,0 +1,42 @@
+{
+  "++lIqO": {
+    "defaultMessage": "Erreur de mise à jour un intraduisible",
+    "description": "endless-aisle:shopping-preferences - error-title"
+  },
+  "+/J3t7": {
+    "defaultMessage": "Veuillez patienter pendant que nous vous déconnectons...",
+    "description": "logout:text - logging-out"
+  },
+  "+11Jn5": {
+    "defaultMessage": "Genre",
+    "description": "account:profile - gender-label"
+  },
+  "+2Y2CW": {
+    "defaultMessage": "Livraison",
+    "description": "ea:recent-orders:summary-shipping"
+  },
+  "+632XD": {
+    "defaultMessage": "Lire la vidéo",
+    "description": "product:aria - play-video"
+  },
+  "+66YjI": {
+    "defaultMessage": "Voir les récompenses",
+    "description": "account:button - view-all-rewards"
+  },
+  "+8hxiS": {
+    "defaultMessage": "Conditions d'utilisation",
+    "description": "footer:link - terms-of-service"
+  },
+  "+Cpeej": {
+    "defaultMessage": "Erreur lors du traitement du paiement PayPal #003",
+    "description": "checkout:payment:paypal - error-003"
+  },
+  "+IRaJs": {
+    "defaultMessage": "Dérogation approuvée par le gestionnaire {managerEmail}",
+    "description": "endless-aisle:manager-approval - success-message"
+  },
+  "+Iq8Va": {
+    "defaultMessage": "Apple Pay nécessite une connexion sécurisée (HTTPS). Veuillez utiliser HTTPS en production.",
+    "description": "payment:error - applepay-requires-https"
+  }
+}
